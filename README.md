@@ -8,7 +8,7 @@ Página destinada a calcular o IMC do usuário, retornar seu IMC e estado físic
 </div>
 
 ## 🔖 Layout
-Acessa o site: https://stupefied-benz-6808fb.netlify.app/
+Acessa o site:https://zealous-hermann-ddd154.netlify.app/
 
----
+
 ___
